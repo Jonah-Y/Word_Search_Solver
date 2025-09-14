@@ -1,0 +1,7 @@
+(1, 0, E): yan
+(0, 1, S): ban
+(1, 2, W): nay
+(2, 1, N): nab
+(0, 2, SW): gaj
+(2, 0, NE): jag
+6 words found
